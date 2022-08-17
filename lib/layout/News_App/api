@@ -1,0 +1,5 @@
+https://newsapi.org/v2/top-headlines/sources?apiKey=API_KEY
+
+baseURl: https://newsapi.org/
+method (URL): v2/top-headlines/sources
+query: apiKey=API_KEY
